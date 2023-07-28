@@ -1,7 +1,5 @@
 ### Desafio Raízen 
-O teste consiste em desenvolver uma pipeline de orquestração de dados ETL que extraia relatórios consolidados sobre vendas de combustíveis do site da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis), transforme os dados fazendo uma limpeza e estruturação dos campos, exporte os arquivos em um formato de big data e valide a integridade dos dados brutos (raw data) com os dados tratados.
-
-As tabelas que deverão ser extraídas do site da ANP são:
+O teste consiste em desenvolver uma pipeline de orquestração de dados ETL que extraia relatórios consolidados sobre vendas de combustíveis do site da ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis). As tabelas que deverão ser extraídas do site da ANP são:
 - Vendas de combustíveis derivados de petróleo por UF e por produto;
 - Vendas de diesel por UF e por tipo;
 
