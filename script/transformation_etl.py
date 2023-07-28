@@ -5,6 +5,9 @@ import pandas as pd
 import datetime
 from datetime import datetime
 
+#Execute o comendo abaixo no terminal para instalar as libs necessárias
+# pip install -r requirements.txt
+
 def download_file():
     try:
         url = 'https://github.com/LuisGustavo2010/RaizenTest_datapipeline/raw/main/script/xls/vendas-combustiveis-m3.xls'
