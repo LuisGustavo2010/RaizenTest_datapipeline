@@ -59,7 +59,7 @@ http://localhost:8080/
 ### Conclusão
 Utilizei Docker e Airflow apenas em cursos, esse foi o primeiro projeto de fato, desafiador porém gratificante!
 
-### Autor:
+### Autor
 [Luis Gustavo](https://www.linkedin.com/in/luisgustavo2019/)
 
 
